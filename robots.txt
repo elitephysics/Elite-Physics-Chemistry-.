@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /config.js
+Disallow: /supabase.sql
+Disallow: /PRODUCTION_SETUP_AR.txt
+
+Sitemap: https://elitephysics.github.io/Elite-Physics-Chemistry-./sitemap.xml
